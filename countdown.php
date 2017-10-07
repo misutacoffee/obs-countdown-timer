@@ -3,13 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Countdown Timer</title>
-
-
-
 <link href="https://fonts.googleapis.com/css?family=Rajdhani" rel="stylesheet">
-
-
-
 <style>
 	body{
 		background:#00FF00;
